@@ -1,0 +1,32 @@
+/* Stijlen voor CV */
+html{
+    height: 100%;
+    width: 150%;
+    background-color: lightgray;
+    overflow:auto;
+    
+    }
+      body{ 
+
+   width: 50%;
+   margin-left: 20%;
+   margin-right: 20%;
+   border: 8px solid;
+background-color:beige;
+   
+    text-align:50px;
+    font-family: Verdana, Arial, sans-serif;
+    color: #000;
+    font-size: 16px;
+    font-style:normal;
+    }
+    
+    h4 { font-size: 16px; 
+    font-family: sans-serif;
+    margin-left:50% ;
+    width: 50%;
+    margin-top:0%;
+    margin-right: auto;
+    margin-bottom: 0%;
+    color: green;
+    }
